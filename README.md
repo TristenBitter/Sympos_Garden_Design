@@ -1,5 +1,9 @@
 # Sympos_Garden_Design
-CS 452 Final Project, Sympos Garden Design App
+
+<img width="1404" height="506" alt="image" src="https://github.com/user-attachments/assets/06c69b15-f364-48f7-9b08-80c5056db7fe" />
+
+
+<img width="668" height="692" alt="Permaculture_land_design_drawing" src="https://github.com/user-attachments/assets/e874060b-2b9e-4413-ba2b-237e7dbff925" />
 
 Sympos Garden Design is an intelligent garden planning application designed to help users grow plants more successfully by combining data-driven insights, climate awareness, and interactive design tools. The goal of this project is to simplify gardening for beginners while still providing meaningful depth for more experienced users.
 
@@ -11,7 +15,3 @@ The project also integrates AI to enhance decision-making, including climate zon
 
 The overall goal of this project is to build a full-stack, data-driven application that demonstrates practical use of databases, API design, and AI integration, while delivering a genuinely useful and engaging user experience.
 
-<img width="1404" height="506" alt="image" src="https://github.com/user-attachments/assets/06c69b15-f364-48f7-9b08-80c5056db7fe" />
-
-
-<img width="668" height="692" alt="Permaculture_land_design_drawing" src="https://github.com/user-attachments/assets/e874060b-2b9e-4413-ba2b-237e7dbff925" />
