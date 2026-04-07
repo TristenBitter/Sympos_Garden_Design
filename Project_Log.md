@@ -4,7 +4,7 @@
 |------|----------|-------|
 | 02/23/2026 | Initial project planning and research| 4.0 |
 | 02/25/2026 | First rough prototype and testing | 4.0 |
-| 03/09/2026 | Figma App Prototype Design | 5.0 |
+| 03/09/2026 | Logo Design and Figma App Prototype Design | 5.0 |
 | 03/11/2026 | Figma App Prototype Design cont. | 5.0 |
 | 03/23/2026 | Testing prototype with Gardeners | 2.0 |
 | 03/25/2026 | Refactoring the App Design and adding a tutorial and Map components| 4.0 |
