@@ -1,24 +1,18 @@
-<<<<<<< HEAD
-# 🌿 Sympos Garden Design
+# Sympos_Garden_Design
 
-> Plan, design, and grow your permaculture garden with AI-powered plant recommendations.
+<img width="1404" height="506" alt="image" src="https://github.com/user-attachments/assets/06c69b15-f364-48f7-9b08-80c5056db7fe" />
 
----
 
-## Features
+<img width="668" height="692" alt="Permaculture_land_design_drawing" src="https://github.com/user-attachments/assets/e874060b-2b9e-4413-ba2b-237e7dbff925" />
 
-- **🔐 Auth** — Register/login, demo mode
-- **🗺️ Garden Wizard** — Name your garden, enter your location, and Claude AI detects your USDA hardiness zone automatically
-- **🌿 Plant Database** — 30+ plants across trees, bushes, herbs, root crops, ground covers — filterable by climate type (tundra / temperate / subtropical / tropical) and category
-- **🔍 Search** — Full-text search across the plant database
-- **ℹ️ Plant Info Modals** — Sun hours, water needs, zones, soil, yield, harvest time, maintenance, and fun facts for every plant
-- **🤝 Companion Suggestions** — Database-driven companion plant relationships
-- **🤖 AI Recommendations** — Claude analyzes your zone + selections and suggests complementary plants
-- **🗺️ Pixel Garden Builder** — Drag-and-paint grid layout (Plants vs. Zombies style aerial view)
-- **🔴🟡🟢 Health Badges** — Each placed plant shows a color-coded happiness badge based on sun exposure simulation
-- **💾 Layout Saving** — Garden layouts are persisted to MySQL
+Sympos Garden Design is an intelligent garden planning application designed to help users grow plants more successfully by combining data-driven insights, climate awareness, and interactive design tools. The goal of this project is to simplify gardening for beginners while still providing meaningful depth for more experienced users.
 
----
+The application allows users to create and manage multiple gardens by specifying their location, size, and layout. Using location data, the system determines the user’s gardening zone and climate, then generates personalized plant recommendations tailored to those conditions. Users can explore a rich plant database, view detailed growing requirements, and select plants to include in their garden.
+
+A key feature of Sympos Garden Design is its interactive grid-based layout system, inspired by games like Plants vs Zombies, where users visually design their garden by placing plants and hardscape elements. Each plant is dynamically evaluated based on factors such as sunlight, spacing, and companion planting relationships. The system provides real-time feedback using a color-coded health indicator (green, yellow, red), helping users understand how well their garden design will perform before planting in real life.
+
+The project also integrates AI to enhance decision-making, including climate zone detection and intelligent plant recommendations. By combining user-friendly design with smart analytics, Sympos Garden Design aims to bridge the gap between planning and successful gardening outcomes.
+
 
 ## Tech Stack
 
@@ -158,33 +152,6 @@ sympos/
 ```
 
 ---
-
-## Extending the App
-
-**Add plant images:** Add an `image_url` column to Plants and display in modals.
-
-**Real geocoding:** Replace the fallback lat/lon in NewGardenWizard with a geocoding API call (OpenStreetMap Nominatim is free).
-
-**Water zones:** Add a water simulation to the builder similar to the sun simulation.
-
-**Mobile:** The grid builder needs touch event handlers — add `onTouchStart`/`onTouchMove` equivalents.
-
-**More AI:** Use Claude to generate personalized garden plans, seasonal planting calendars, or companion planting explanations.
-=======
-# Sympos_Garden_Design
-
-<img width="1404" height="506" alt="image" src="https://github.com/user-attachments/assets/06c69b15-f364-48f7-9b08-80c5056db7fe" />
-
-
-<img width="668" height="692" alt="Permaculture_land_design_drawing" src="https://github.com/user-attachments/assets/e874060b-2b9e-4413-ba2b-237e7dbff925" />
-
-Sympos Garden Design is an intelligent garden planning application designed to help users grow plants more successfully by combining data-driven insights, climate awareness, and interactive design tools. The goal of this project is to simplify gardening for beginners while still providing meaningful depth for more experienced users.
-
-The application allows users to create and manage multiple gardens by specifying their location, size, and layout. Using location data, the system determines the user’s gardening zone and climate, then generates personalized plant recommendations tailored to those conditions. Users can explore a rich plant database, view detailed growing requirements, and select plants to include in their garden.
-
-A key feature of Sympos Garden Design is its interactive grid-based layout system, inspired by games like Plants vs Zombies, where users visually design their garden by placing plants and hardscape elements. Each plant is dynamically evaluated based on factors such as sunlight, spacing, and companion planting relationships. The system provides real-time feedback using a color-coded health indicator (green, yellow, red), helping users understand how well their garden design will perform before planting in real life.
-
-The project also integrates AI to enhance decision-making, including climate zone detection and intelligent plant recommendations. By combining user-friendly design with smart analytics, Sympos Garden Design aims to bridge the gap between planning and successful gardening outcomes.
 
 The overall goal of this project is to build a full-stack, data-driven application that demonstrates practical use of databases, API design, and AI integration, while delivering a genuinely useful and engaging user experience.
 
