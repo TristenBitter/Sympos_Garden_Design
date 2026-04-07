@@ -10,5 +10,5 @@
 | 03/25/2026 | Refactoring the App Design and adding a tutorial and Map components| 4.0 |
 | 04/06/2026 | GitHub setup, and updating Time Log  | 1.0 |
 | 04/06/2026 | ERD design, rough build with claude, database & ai api_key setup | 5.0 |
-| 04/07/2026 | Adding Schema, Fixing map functionality, updating the app and updating Time Log  | 2.0 |
-|  |  | **Total: 32.0** |
+| 04/07/2026 | Adding Schema, Fixing map functionality and badges, updating the app and updating Time Log  | 6.0 |
+|  |  | **Total: 36.0** |
