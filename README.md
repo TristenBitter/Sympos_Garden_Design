@@ -151,8 +151,4 @@ sympos/
 └── README.md
 ```
 
----
 
-The overall goal of this project is to build a full-stack, data-driven application that demonstrates practical use of databases, API design, and AI integration, while delivering a genuinely useful and engaging user experience.
-
->>>>>>> 2aca7125efa7d04522acfdd6ce9551bbb9dd525d
